@@ -2,9 +2,9 @@
 
 **Hiroshi Harada - November 12, 2026**
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24160370.svg)](https://doi.org/10.5281/zenodo.24160370)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24160370.svg)](https://doi.org/10.5281/zenodo.24160370)
 
 ## **Overview**
 This repository contains a research report and a Python simulator that implement this algebraic formulation of the "3n+5 problem"—an extended model of the Collatz conjecture—as affine transformations within Jacobsthal (J) space.
